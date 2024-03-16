@@ -1,0 +1,8 @@
+c:\users\msı\onedrive\belgeler\visual studio 2015\Projects\selenaykodlab\selenaykodlab\bin\Debug\selenaykodlab.exe.config
+c:\users\msı\onedrive\belgeler\visual studio 2015\Projects\selenaykodlab\selenaykodlab\bin\Debug\selenaykodlab.exe
+c:\users\msı\onedrive\belgeler\visual studio 2015\Projects\selenaykodlab\selenaykodlab\bin\Debug\selenaykodlab.pdb
+c:\users\msı\onedrive\belgeler\visual studio 2015\Projects\selenaykodlab\selenaykodlab\obj\Debug\selenaykodlab.Properties.Resources.resources
+c:\users\msı\onedrive\belgeler\visual studio 2015\Projects\selenaykodlab\selenaykodlab\obj\Debug\selenaykodlab.csproj.GenerateResource.Cache
+c:\users\msı\onedrive\belgeler\visual studio 2015\Projects\selenaykodlab\selenaykodlab\obj\Debug\selenaykodlab.exe
+c:\users\msı\onedrive\belgeler\visual studio 2015\Projects\selenaykodlab\selenaykodlab\obj\Debug\selenaykodlab.pdb
+c:\users\msı\onedrive\belgeler\visual studio 2015\Projects\selenaykodlab\selenaykodlab\obj\Debug\selenaykodlab.Form1.resources
